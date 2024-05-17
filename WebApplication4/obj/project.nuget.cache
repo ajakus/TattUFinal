@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7atU1yqfa4L3JtUczhrb248ieLfhef0yYlHFfxYXOeR7JPHeVW0ky6c44N8Z35CFywUoINSuK5I3X+F2/rOVHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jakus\\RiderProjects\\TattUFinal\\WebApplication4\\WebApplication4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jakus\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\jakus\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\jakus\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+@TattUServer_HostAddress = http://localhost:5237
+
+GET {{TattUServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+POST {{TattUServer_HostAddress}}/api/UploadFile
+Accept: application/json
+###
